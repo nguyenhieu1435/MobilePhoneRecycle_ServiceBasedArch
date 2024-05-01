@@ -1,0 +1,9 @@
+[submodule "recycling-device-frontend"]
+	path = recycling-device-frontend
+	url = https://github.com/nguyenhieu1435/recycling-device-frontend.git
+[submodule "CustomerServicesSpringWeb"]
+	path = CustomerServicesSpringWeb
+	url = https://github.com/nguyenhieu1435/CustomerServicesSpringWeb.git
+[submodule "ReceivingRecyclingAccountServices"]
+	path = ReceivingRecyclingAccountServices
+	url = https://github.com/nguyenhieu1435/ReceivingRecyclingAccountServices.git
